@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 sß
 conflict
-conflict-remoteで更新
+conflict-remote上で更新
